@@ -11,7 +11,7 @@
 
 <br/>
 
-## :eyeglasses: How it looks like?
+## :eyeglasses: How was it?
 <img src="./projectImages/web-main-screen.png" width="1000px"/>
 <img src="./projectImages/web-registry-screen.png" width="1000px"/>
 <img src="./projectImages/web-incidents-screen.png" width="1000px"/>
@@ -39,7 +39,6 @@ In the [mobile application](./mobile/), the user can view all cases, as well as 
  - Push your branch: ```git push origin my-feature```
 
 ## :memo: License
-
 This project is under the MIT license. Take a look at the [LICENSE](LICENSE.md) file for more details.
 
 
