@@ -17,8 +17,9 @@
 <img src="./projectImages/web-incidents-screen.png" width="1000px"/>
 <!-- Mobile -->
 <div style="display:flex;justify-content:space-around;">
- <img src="./projectImages/mobile-main-screen.jpg" width="auto" height="650px"/>
- <img src="./projectImages/mobile-incident-screen.jpg" width="auto" height="650px"/>
+ <img src="./projectImages/mobile-splash-screen.jpg" width="auto" height="600px"/>
+ <img src="./projectImages/mobile-main-screen.jpg" width="auto" height="600px"/>
+ <img src="./projectImages/mobile-incident-screen.jpg" width="auto" height="600px"/>
 </div>
 
 
