@@ -16,8 +16,11 @@
 <img src="./projectImages/web-register-screen.png" width="1000px"/>
 <img src="./projectImages/web-incidents-screen.png" width="1000px"/>
 <!-- Mobile -->
-<img src="./projectImages/mobile-main-screen.jpg" width="auto" height="400px"/>
-<img src="./projectImages/mobile-incident-screen.jpg" width="auto" height="400px"/>
+<div style="display:flex;justify-content:space-around;">
+ <img src="./projectImages/mobile-main-screen.jpg" width="auto" height="650px"/>
+ <img src="./projectImages/mobile-incident-screen.jpg" width="auto" height="650px"/>
+</div>
+
 
 ## :star2: Technologies
 This project was built with:
