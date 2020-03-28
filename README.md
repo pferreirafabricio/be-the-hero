@@ -13,7 +13,7 @@
 
 ## :eyeglasses: How was it?
 <img src="./projectImages/web-main-screen.png" width="1000px"/>
-<img src="./projectImages/web-registry-screen.png" width="1000px"/>
+<img src="./projectImages/web-register-screen.png" width="1000px"/>
 <img src="./projectImages/web-incidents-screen.png" width="1000px"/>
 <!-- Mobile -->
 <img src="./projectImages/mobile-main-screen.png" width="1000px"/>
